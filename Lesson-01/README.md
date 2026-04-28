@@ -87,6 +87,6 @@ A fixed set of symbols
 
 Once you understand the patterns, you can read almost any Roman numeral.
 
-[---> Mainpage](./BITLC-Preliminary-Course/README.md)
+[---> Mainpage](../)
 
 [--->Lesson 02](./Lesson-02/README.md)
