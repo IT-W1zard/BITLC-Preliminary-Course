@@ -6,7 +6,7 @@ I go lesson by lesson, summarizing key concepts and showing examples.
 ## Structure
 
 Introduction to Programming
-- Number Systems – (./Lesson-01)
+- Number Systems – [Lesson 01](./Lesson-01)
 - Nassi-Shneiderman diagrams – (./Lesson-02)
 - Pseudocode - (./Lesson-03)
 - PAP - (./Lesson-04)
