@@ -1,6 +1,6 @@
 # Nassi-Shneiderman diagrams
 
-## Lesson 01 - Nassi-Shneiderman Diagrams
+## Lesson 02 - Nassi-Shneiderman Diagrams
 
 Overview
 
@@ -41,30 +41,33 @@ There are 3 main types:
 Instructions are executed one after another.
 
 Example:
+```
         Step 1: Read A  
         Step 2: Read B  
         Step 3: Calculate Sum  
         Step 4: Output Result  
-
+```
 ### 2. Selection (IF / ELSE)
 
 Used for decisions.
 
 Example:
-        IF age >= 18
-            Output "Adult"
-        ELSE
-            Output "Minor"
-
+```
+        IF age >= 18  
+            Output "Adult"  
+        ELSE  
+            Output "Minor"  
+```
 ### 3. Iteration (Loops)
 
 Used when steps repeat.
 
-Example (WHILE loop):
-        WHILE counter < 5
-                Output counter
-                counter = counter + 1
-
+Example (WHILE loop):  
+```
+        WHILE counter < 5  
+                Output counter  
+                counter = counter + 1  
+```
 ## 3. How to Read a Nassi-Shneiderman Diagram
 
 Step-by-step method:
@@ -73,23 +76,26 @@ Follow the structure downward
 Check for conditions (IF / WHILE)
 Execute blocks in order or based on conditions
 
-Example 1: Simple Decision
-        IF number > 0
-            Output "Positive"
-        ELSE
-            Output "Not Positive"
+Example 1: Simple Decision  
+```
+        IF number > 0  
+            Output "Positive"  
+        ELSE  
+            Output "Not Positive"  
+```
 Meaning:
 
 - Check the condition
 - Choose only one path
 
-Example 3: Combined Logic
-        Read number
-        IF number % 2 == 0
-            Output "Even"
-        ELSE
-            Output "Odd"
-
+Example 3: Combined Logic  
+```
+        Read number  
+        IF number % 2 == 0  
+            Output "Even"  
+        ELSE  
+            Output "Odd"  
+```
 Meaning:
 
 - First input is taken
