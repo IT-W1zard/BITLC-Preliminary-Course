@@ -7,7 +7,7 @@ I go lesson by lesson, summarizing key concepts and showing examples.
 
 Introduction to Programming
 - Number Systems – [Lesson 01](./Lesson-01/README.md)
-- Nassi-Shneiderman diagrams – [Lesson 02](./Lesson-02/README.md)
+- Nassi-Shneiderman diagrams – [Lesson 02](./Lesson-02/README.md) (Note: Examples need to be add)
 - Pseudocode - [Lesson 03](./Lesson-03/README.md)
 - PAP - [Lesson 04](./Lesson-04/README.md)
 - Variables, Data Types, Operators - [Lesson 05](./Lesson-05/README.md)
