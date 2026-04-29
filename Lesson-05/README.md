@@ -127,8 +127,8 @@ END IF
 
 Operators allow you to:
 
-Perform calculations
-Compare values
-Combine conditions
+- Perform calculations
+- Compare values
+- Combine conditions
 
 [🏠 Mainpage](https://github.com/IT-W1zard/BITLC-Preliminary-Course/tree/main)
