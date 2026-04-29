@@ -99,17 +99,14 @@ SET b = 3
 SET result = a + b
 ```
 ## 2. Comparison Operators
-- = → equal
-- != → not equal
-
-- x > greater than
-
-- X < less than
-
-- >= greater or equal
-
-- <= → less or equal
-
+```
+= → equal
+!= → not equal
+x > greater than
+X < less than
+>= greater or equal
+<= → less or equal
+```
 Example:
 ```
 IF a > b THEN
