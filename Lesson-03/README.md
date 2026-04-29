@@ -27,7 +27,7 @@ WHILE
 
 It is not a real programming language, but it follows logical structure.
 
-2. Basic Rules
+## 2. Basic Rules
 - Write steps in order
 - Use simple English
 - Keep instructions clear and short
