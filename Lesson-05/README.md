@@ -99,7 +99,7 @@ SET a = 5
 SET b = 3
 SET result = a + b
 ```
-##2. Comparison Operators
+## 2. Comparison Operators
 - = → equal
 - != → not equal
 
