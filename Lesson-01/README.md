@@ -1,6 +1,6 @@
-# Number Systems
+# Lesson 01 - Number Systems
 
-## Lesson 01 - Roman Numerals
+## Roman Numerals
 
 Overview
 
