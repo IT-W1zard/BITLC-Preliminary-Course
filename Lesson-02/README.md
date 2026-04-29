@@ -1,7 +1,5 @@
 # Nassi-Shneiderman diagrams
 
-## Lesson 02 - Nassi-Shneiderman Diagrams
-
 Overview
 
 Nassi-Shneiderman diagrams (also called structograms) are a way to visually design
