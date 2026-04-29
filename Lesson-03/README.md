@@ -6,16 +6,13 @@ Pseudocode is a way of writing algorithms in a simple, human-readable format tha
 It helps you plan logic before writing actual code.
 
 You will learn:
-
 What pseudocode is
 How to write basic instructions
 How to use IF/ELSE statements
 How to write loops in pseudocode
 
 ## 1. What is Pseudocode?
-
 Pseudocode is an informal way of describing an algorithm.
-
 It uses simple keywords like:
 
 INPUT
@@ -68,10 +65,9 @@ END IF
 ## 4. Summary
 
 Pseudocode helps you:
-
-Plan programs before coding
-Focus on logic instead of syntax
-Understand algorithms more easily
+- Plan programs before coding
+- Focus on logic instead of syntax
+- Understand algorithms more easily
 
 Once you can write pseudocode, writing real code becomes much easier.
 
