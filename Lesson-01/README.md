@@ -1,4 +1,4 @@
-# Lesson 01 - Number Systems
+# Number Systems
 
 ## Roman Numerals
 
