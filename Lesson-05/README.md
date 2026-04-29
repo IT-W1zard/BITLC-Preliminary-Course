@@ -92,7 +92,6 @@ You will learn:
 - subtraction
 - multiplication
 - / division
-- 
 Example:
 ```
 SET a = 5
