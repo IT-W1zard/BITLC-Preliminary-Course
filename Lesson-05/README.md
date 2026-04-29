@@ -76,3 +76,63 @@ Summary
 - Organize data
 - Prevent errors
 - Use correct operations
+
+# Operators
+Overview
+
+Operators are used to perform actions on variables and values.
+
+You will learn:
+- Arithmetic operators
+- Comparison operators
+- Logical operators
+
+## 1. Arithmetic Operators
+- addition
+- subtraction
+- multiplication
+- / division
+- 
+Example:
+```
+SET a = 5
+SET b = 3
+SET result = a + b
+```
+##2. Comparison Operators
+- = → equal
+- != → not equal
+
+- x > greater than
+
+- X < less than
+
+- >= greater or equal
+
+- <= → less or equal
+
+Example:
+```
+IF a > b THEN
+    OUTPUT "a is greater"
+END IF
+```
+## 3. Logical Operators
+AND
+OR
+NOT
+Example:
+```
+IF age > 18 AND isStudent = true THEN
+    OUTPUT "Eligible"
+END IF
+```
+## Summary
+
+Operators allow you to:
+
+Perform calculations
+Compare values
+Combine conditions
+
+[🏠 Mainpage](https://github.com/IT-W1zard/BITLC-Preliminary-Course/tree/main)
