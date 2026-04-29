@@ -1,7 +1,5 @@
 # Pseudocode
 
-## Lesson 03 - Pseudocode
-
 Overview
 
 Pseudocode is a way of writing algorithms in a simple, human-readable format that is similar to programming but not tied to any specific language.
