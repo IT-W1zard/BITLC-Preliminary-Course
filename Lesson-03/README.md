@@ -26,3 +26,9 @@ IF
 WHILE
 
 It is not a real programming language, but it follows logical structure.
+
+2. Basic Rules
+- Write steps in order
+- Use simple English
+- Keep instructions clear and short
+- Do not follow strict programming syntax
