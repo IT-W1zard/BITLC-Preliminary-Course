@@ -88,5 +88,3 @@ A fixed set of symbols
 Once you understand the patterns, you can read almost any Roman numeral.
 
 [🏠 Mainpage](https://github.com/IT-W1zard/BITLC-Preliminary-Course/tree/main)
-
-[⏭️ Lesson 02](./Lesson-02/README.md)
