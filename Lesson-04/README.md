@@ -6,7 +6,6 @@ A flowchart, is a graphical way to represent algorithms.
 It uses standardized symbols to show the flow of a program step by step.
 
 You will learn:
-
 - What a Flowchart is
 - The basic symbols
 - How to read a flowchart
@@ -15,18 +14,14 @@ You will learn:
 ## 1. What is a Flowchart?
 
 A Flowchart is a diagram used to visualize the sequence of steps in a program.
-
 It shows:
-
 - The start and end of a process
 - Inputs and outputs
 - Decisions
 - The flow of control
 
 ## 2. Basic Symbols
-
 Common symbols used in a Flowchart:
-
 - Oval → Start / End
 - Parallelogram → Input / Output
 - Rectangle → Process (calculation, assignment)
@@ -76,9 +71,7 @@ END IF
 END
 ```
 ## 4. Summary
-
 A flowchart uses:
-
 Standard symbols
 Arrows to show flow
 Clear structure of decisions and loops
