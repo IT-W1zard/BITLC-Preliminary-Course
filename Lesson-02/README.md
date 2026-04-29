@@ -113,5 +113,3 @@ Easy-to-read program logic
 Once you understand the structure, you can design and analyze algorithms more easily before writing actual code.
 
 [🏠 Mainpage](https://github.com/IT-W1zard/BITLC-Preliminary-Course/tree/main) 
-
-[⏭️ Lesson 02](./Lesson-02/README.md)
