@@ -6,7 +6,6 @@ Simple data processing involves taking input, processing it, and producing an ou
 It is one of the most basic concepts in programming.
 
 You will learn:
-
 - The input → process → output principle
 - How to structure simple programs
 - How to perform basic calculations
