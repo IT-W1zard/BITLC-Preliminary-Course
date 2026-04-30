@@ -39,9 +39,9 @@ AVERAGE = (a + b + c) / 3
 OUTPUT AVERAGE
 ```
 ## 5. Steps in Data Processing
-Step 1: Read input
-Step 2: Process data (calculate)
-Step 3: Output result
+Step 1: Read input  
+Step 2: Process data (calculate)  
+Step 3: Output result  
 
 ## 6. Summary
 Simple data processing is based on:
