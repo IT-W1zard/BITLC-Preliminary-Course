@@ -1,7 +1,5 @@
 # Number Systems
 
-## Number Systems (Binary, Decimal, Hexadecimal)
-
 Overview
 
 Number systems are different ways of representing numbers.  
@@ -173,7 +171,7 @@ You will learn:
 - How to build numbers using rules
 - How to convert Roman numerals to modern numbers
 
-## 1. Roman Numeral Symbols
+# 1. Roman Numeral Symbols
 
 | Symbol | Value |
 | ------ | ----- |
